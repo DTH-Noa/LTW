@@ -1,0 +1,3617 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LTW_Nhom10.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LTW_Nhom10.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\account\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\account\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\account\\login.html",
+      "PackagePath": "staticwebassets\\Layout\\account\\login.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\account\\login4236.html",
+      "PackagePath": "staticwebassets\\Layout\\account\\login4236.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\account\\register.html",
+      "PackagePath": "staticwebassets\\Layout\\account\\register.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\blogs\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\blogs\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\blogs\\news.atom",
+      "PackagePath": "staticwebassets\\Layout\\blogs\\news.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\blogs\\news.html",
+      "PackagePath": "staticwebassets\\Layout\\blogs\\news.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\blogs\\news\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\blogs\\news\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\blogs\\news\\post-format-image-gallery.html",
+      "PackagePath": "staticwebassets\\Layout\\blogs\\news\\post-format-image-gallery.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\blogs\\news\\post-format-video.html",
+      "PackagePath": "staticwebassets\\Layout\\blogs\\news\\post-format-video.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\blogs\\news\\tagged\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\blogs\\news\\tagged\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\blogs\\news\\tagged\\blog.atom",
+      "PackagePath": "staticwebassets\\Layout\\blogs\\news\\tagged\\blog.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\blogs\\news\\tagged\\blog.html",
+      "PackagePath": "staticwebassets\\Layout\\blogs\\news\\tagged\\blog.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\blogs\\news\\tagged\\clothing.atom",
+      "PackagePath": "staticwebassets\\Layout\\blogs\\news\\tagged\\clothing.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\blogs\\news\\tagged\\clothing.html",
+      "PackagePath": "staticwebassets\\Layout\\blogs\\news\\tagged\\clothing.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\blogs\\news\\tagged\\dresses.atom",
+      "PackagePath": "staticwebassets\\Layout\\blogs\\news\\tagged\\dresses.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\blogs\\news\\tagged\\dresses.html",
+      "PackagePath": "staticwebassets\\Layout\\blogs\\news\\tagged\\dresses.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\blogs\\news\\tagged\\fashion.atom",
+      "PackagePath": "staticwebassets\\Layout\\blogs\\news\\tagged\\fashion.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\blogs\\news\\tagged\\fashion.html",
+      "PackagePath": "staticwebassets\\Layout\\blogs\\news\\tagged\\fashion.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\blogs\\news\\tagged\\photography.atom",
+      "PackagePath": "staticwebassets\\Layout\\blogs\\news\\tagged\\photography.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\blogs\\news\\tagged\\photography.html",
+      "PackagePath": "staticwebassets\\Layout\\blogs\\news\\tagged\\photography.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\blogs\\news\\tagged\\shoes.atom",
+      "PackagePath": "staticwebassets\\Layout\\blogs\\news\\tagged\\shoes.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\blogs\\news\\tagged\\shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\blogs\\news\\tagged\\shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\blogs\\news\\tagged\\women.atom",
+      "PackagePath": "staticwebassets\\Layout\\blogs\\news\\tagged\\women.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\blogs\\news\\tagged\\women.html",
+      "PackagePath": "staticwebassets\\Layout\\blogs\\news\\tagged\\women.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cart.html",
+      "PackagePath": "staticwebassets\\Layout\\cart.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cart\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\cart\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cart\\index.html",
+      "PackagePath": "staticwebassets\\Layout\\cart\\index.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn.html",
+      "PackagePath": "staticwebassets\\Layout\\cdn.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn.shopify.com\\s\\files\\1\\1632\\5913\\files\\size_guide.png",
+      "PackagePath": "staticwebassets\\Layout\\cdn.shopify.com\\s\\files\\1\\1632\\5913\\files\\size_guide.png"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\s\\trekkie.storefront.d88aa5f007759294e4f3b66e32cebf97843d3efb.min.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\s\\trekkie.storefront.d88aa5f007759294e4f3b66e32cebf97843d3efb.min.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\articles\\01_grande_grande_173e4d18-a101-41d0-8fd5-7c1ca924265e_120x12038b6.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\articles\\01_grande_grande_173e4d18-a101-41d0-8fd5-7c1ca924265e_120x12038b6.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\articles\\01_grande_grande_173e4d18-a101-41d0-8fd5-7c1ca924265e_400x38b6.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\articles\\01_grande_grande_173e4d18-a101-41d0-8fd5-7c1ca924265e_400x38b6.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\articles\\02_grande_grande_cd8b4411-dff2-4deb-95ab-950ff30626f2_120x120d409.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\articles\\02_grande_grande_cd8b4411-dff2-4deb-95ab-950ff30626f2_120x120d409.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\articles\\02_grande_grande_cd8b4411-dff2-4deb-95ab-950ff30626f2_400xd409.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\articles\\02_grande_grande_cd8b4411-dff2-4deb-95ab-950ff30626f2_400xd409.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\BlackWomanUnderwear141b8.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\BlackWomanUnderwear141b8.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\BlackWomanUnderwear1_150x15041b8.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\BlackWomanUnderwear1_150x15041b8.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\BlackWomanUnderwear1_grande41b8.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\BlackWomanUnderwear1_grande41b8.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\BlackWomanUnderwear2220d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\BlackWomanUnderwear2220d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\BlackWomanUnderwear2865.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\BlackWomanUnderwear2865.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\BlackWomanUnderwear2_150x150220d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\BlackWomanUnderwear2_150x150220d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\BlackWomanUnderwear2_grande220d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\BlackWomanUnderwear2_grande220d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\BlackWomanUnderwear_150x1502865.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\BlackWomanUnderwear_150x1502865.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\BlackWomanUnderwear_grande2865.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\BlackWomanUnderwear_grande2865.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\BlackWomanUnderwear_medium2865.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\BlackWomanUnderwear_medium2865.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\MenTrouser1_150x150adad.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\MenTrouser1_150x150adad.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\MenTrouser1_grandeadad.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\MenTrouser1_grandeadad.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\MenTrouser1adad.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\MenTrouser1adad.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\MenTrouser_150x150adad.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\MenTrouser_150x150adad.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\MenTrouser_grandeadad.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\MenTrouser_grandeadad.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\MenTrouser_mediumadad.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\MenTrouser_mediumadad.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\MenTrouseradad.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\MenTrouseradad.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt12e6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt12e6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt1_150x1502e6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt1_150x1502e6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt1_460d9373-6c3b-45ce-b0ca-d699cfe72ae984c5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt1_460d9373-6c3b-45ce-b0ca-d699cfe72ae984c5.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt1_460d9373-6c3b-45ce-b0ca-d699cfe72ae9_150x15084c5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt1_460d9373-6c3b-45ce-b0ca-d699cfe72ae9_150x15084c5.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt1_460d9373-6c3b-45ce-b0ca-d699cfe72ae9_grande84c5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt1_460d9373-6c3b-45ce-b0ca-d699cfe72ae9_grande84c5.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt1_80189809-940e-4f94-8e38-b98ca0478a705ca5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt1_80189809-940e-4f94-8e38-b98ca0478a705ca5.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt1_80189809-940e-4f94-8e38-b98ca0478a70_150x1505ca5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt1_80189809-940e-4f94-8e38-b98ca0478a70_150x1505ca5.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt1_80189809-940e-4f94-8e38-b98ca0478a70_grande5ca5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt1_80189809-940e-4f94-8e38-b98ca0478a70_grande5ca5.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt1_grande2e6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt1_grande2e6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt22e6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt22e6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_150x1502e6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_150x1502e6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_436b9d25-2b8d-466d-974d-84233c119f955ca5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_436b9d25-2b8d-466d-974d-84233c119f955ca5.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_436b9d25-2b8d-466d-974d-84233c119f95_150x1505ca5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_436b9d25-2b8d-466d-974d-84233c119f95_150x1505ca5.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_436b9d25-2b8d-466d-974d-84233c119f95_grande5ca5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_436b9d25-2b8d-466d-974d-84233c119f95_grande5ca5.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_6111ed4e-32cb-4eaf-b132-69bba797c02784c5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_6111ed4e-32cb-4eaf-b132-69bba797c02784c5.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_6111ed4e-32cb-4eaf-b132-69bba797c027_150x15084c5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_6111ed4e-32cb-4eaf-b132-69bba797c027_150x15084c5.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_6111ed4e-32cb-4eaf-b132-69bba797c027_grande84c5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_6111ed4e-32cb-4eaf-b132-69bba797c027_grande84c5.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_6111ed4e-32cb-4eaf-b132-69bba797c027_medium84c5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_6111ed4e-32cb-4eaf-b132-69bba797c027_medium84c5.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_815eb1e8-6aca-4e07-89f6-5e1339dc1c3c_150x150d59e.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_815eb1e8-6aca-4e07-89f6-5e1339dc1c3c_150x150d59e.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_815eb1e8-6aca-4e07-89f6-5e1339dc1c3c_granded59e.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_815eb1e8-6aca-4e07-89f6-5e1339dc1c3c_granded59e.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_815eb1e8-6aca-4e07-89f6-5e1339dc1c3cd59e.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_815eb1e8-6aca-4e07-89f6-5e1339dc1c3cd59e.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_grande2e6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt2_grande2e6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt2e6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt2e6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt32e6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt32e6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt3_122ab51e-28b5-4bc9-906a-91d2b3908e45_150x150aa6b.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt3_122ab51e-28b5-4bc9-906a-91d2b3908e45_150x150aa6b.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt3_122ab51e-28b5-4bc9-906a-91d2b3908e45_grandeaa6b.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt3_122ab51e-28b5-4bc9-906a-91d2b3908e45_grandeaa6b.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt3_122ab51e-28b5-4bc9-906a-91d2b3908e45aa6b.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt3_122ab51e-28b5-4bc9-906a-91d2b3908e45aa6b.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt3_150x1502e6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt3_150x1502e6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt3_6db71630-4c99-4e04-a366-87e70f1d2f6e_150x150d98d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt3_6db71630-4c99-4e04-a366-87e70f1d2f6e_150x150d98d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt3_6db71630-4c99-4e04-a366-87e70f1d2f6e_granded98d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt3_6db71630-4c99-4e04-a366-87e70f1d2f6e_granded98d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt3_6db71630-4c99-4e04-a366-87e70f1d2f6e_mediumd98d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt3_6db71630-4c99-4e04-a366-87e70f1d2f6e_mediumd98d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt3_6db71630-4c99-4e04-a366-87e70f1d2f6ed98d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt3_6db71630-4c99-4e04-a366-87e70f1d2f6ed98d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt_150x1502e6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt_150x1502e6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt_grande2e6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt_grande2e6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBlackBelt_medium2e6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBlackBelt_medium2e6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBrownBag1_150x150e89c.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBrownBag1_150x150e89c.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBrownBag1_grandee89c.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBrownBag1_grandee89c.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBrownBag1e89c.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBrownBag1e89c.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBrownBag_150x150e89c.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBrownBag_150x150e89c.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBrownBag_grandee89c.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBrownBag_grandee89c.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBrownBag_mediume89c.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBrownBag_mediume89c.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBrownBage89c.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBrownBage89c.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBrownnecklet128b9.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBrownnecklet128b9.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBrownnecklet1_150x15028b9.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBrownnecklet1_150x15028b9.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBrownnecklet1_grande28b9.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBrownnecklet1_grande28b9.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBrownnecklet28b9.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBrownnecklet28b9.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBrownnecklet_150x15028b9.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBrownnecklet_150x15028b9.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBrownnecklet_grande28b9.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBrownnecklet_grande28b9.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoBrownnecklet_medium28b9.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoBrownnecklet_medium28b9.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoPinkShoes122e0.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoPinkShoes122e0.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoPinkShoes1_150x15022e0.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoPinkShoes1_150x15022e0.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoPinkShoes1_b3f14ea6-afd6-4a19-bcef-d3e694f93ad7_150x150c528.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoPinkShoes1_b3f14ea6-afd6-4a19-bcef-d3e694f93ad7_150x150c528.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoPinkShoes1_b3f14ea6-afd6-4a19-bcef-d3e694f93ad7_grandec528.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoPinkShoes1_b3f14ea6-afd6-4a19-bcef-d3e694f93ad7_grandec528.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoPinkShoes1_b3f14ea6-afd6-4a19-bcef-d3e694f93ad7_mediumc528.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoPinkShoes1_b3f14ea6-afd6-4a19-bcef-d3e694f93ad7_mediumc528.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoPinkShoes1_b3f14ea6-afd6-4a19-bcef-d3e694f93ad7c528.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoPinkShoes1_b3f14ea6-afd6-4a19-bcef-d3e694f93ad7c528.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoPinkShoes1_c233932d-c42a-4230-8f00-7ca33fecb622_150x150d59e.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoPinkShoes1_c233932d-c42a-4230-8f00-7ca33fecb622_150x150d59e.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoPinkShoes1_c233932d-c42a-4230-8f00-7ca33fecb622_granded59e.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoPinkShoes1_c233932d-c42a-4230-8f00-7ca33fecb622_granded59e.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoPinkShoes1_c233932d-c42a-4230-8f00-7ca33fecb622_mediumd59e.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoPinkShoes1_c233932d-c42a-4230-8f00-7ca33fecb622_mediumd59e.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoPinkShoes1_c233932d-c42a-4230-8f00-7ca33fecb622d59e.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoPinkShoes1_c233932d-c42a-4230-8f00-7ca33fecb622d59e.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoPinkShoes1_grande22e0.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoPinkShoes1_grande22e0.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoPinkShoes22e0.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoPinkShoes22e0.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoPinkShoes_150x15022e0.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoPinkShoes_150x15022e0.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoPinkShoes_grande22e0.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoPinkShoes_grande22e0.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoPinkShoes_medium22e0.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoPinkShoes_medium22e0.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoSportsShoes1_150x150be6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoSportsShoes1_150x150be6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoSportsShoes1_grandebe6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoSportsShoes1_grandebe6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoSportsShoes1be6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoSportsShoes1be6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoSportsShoes2_150x150be6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoSportsShoes2_150x150be6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoSportsShoes2_grandebe6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoSportsShoes2_grandebe6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoSportsShoes2be6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoSportsShoes2be6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoSportsShoes3_150x150be6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoSportsShoes3_150x150be6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoSportsShoes3be6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoSportsShoes3be6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoSportsShoes_150x150be6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoSportsShoes_150x150be6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoSportsShoes_grandebe6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoSportsShoes_grandebe6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoSportsShoes_mediumbe6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoSportsShoes_mediumbe6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\PortoSportsShoesbe6d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\PortoSportsShoesbe6d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenBag14f1d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenBag14f1d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenBag1_150x1504f1d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenBag1_150x1504f1d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenBag1_a5cdeabd-0d78-4f8c-aef0-6e6f993d661b_150x150c528.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenBag1_a5cdeabd-0d78-4f8c-aef0-6e6f993d661b_150x150c528.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenBag1_a5cdeabd-0d78-4f8c-aef0-6e6f993d661b_grandec528.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenBag1_a5cdeabd-0d78-4f8c-aef0-6e6f993d661b_grandec528.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenBag1_a5cdeabd-0d78-4f8c-aef0-6e6f993d661bc528.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenBag1_a5cdeabd-0d78-4f8c-aef0-6e6f993d661bc528.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenBag1_grande4f1d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenBag1_grande4f1d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenBag2_150x150a956.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenBag2_150x150a956.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenBag2_eda081de-336c-4878-995d-52fc7cb4127e18d3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenBag2_eda081de-336c-4878-995d-52fc7cb4127e18d3.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenBag2_eda081de-336c-4878-995d-52fc7cb4127e_150x15018d3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenBag2_eda081de-336c-4878-995d-52fc7cb4127e_150x15018d3.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenBag2_eda081de-336c-4878-995d-52fc7cb4127e_grande18d3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenBag2_eda081de-336c-4878-995d-52fc7cb4127e_grande18d3.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenBag2_grandea956.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenBag2_grandea956.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenBag2a956.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenBag2a956.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenBag3_150x150a956.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenBag3_150x150a956.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenBag3a956.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenBag3a956.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenBag4f1d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenBag4f1d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenBag_150x1504f1d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenBag_150x1504f1d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenBag_grande4f1d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenBag_grande4f1d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenBag_medium4f1d.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenBag_medium4f1d.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenTrouser6643.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenTrouser6643.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenTrouser_150x1506643.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenTrouser_150x1506643.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenTrouser_grande6643.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenTrouser_grande6643.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\WomenTrouser_medium6643.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\WomenTrouser_medium6643.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\shop9_product35ca5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\shop9_product35ca5.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\shop9_product3_150x1505ca5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\shop9_product3_150x1505ca5.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\shop9_product3_grande5ca5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\shop9_product3_grande5ca5.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\products\\shop9_product3_medium5ca5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\products\\shop9_product3_medium5ca5.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\Simple-Line-Iconsb26c.eot",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\Simple-Line-Iconsb26c.eot"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\Simple-Line-Iconsb26c.woff2",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\Simple-Line-Iconsb26c.woff2"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\avatar.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\avatar4f9c.jpg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\avatar4f9c.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\black55c1.png",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\black55c1.png"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\blank.gif",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\blank.gif"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\blue562f.png",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\blue562f.png"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\brown5850.png",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\brown5850.png"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\collection-filters-form76e8.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\collection-filters-form76e8.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\collection533d.css",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\collection533d.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\config5e4c.css",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\config5e4c.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\curved-border.svg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\curved-border.svg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\customerdb92.css",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\customerdb92.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\defcea.png",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\defcea.png"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\en9a83.png",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\en9a83.png"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\fancybox_loading.gif",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\fancybox_loading.gif"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\fancybox_loading@2x.gif",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\fancybox_loading@2x.gif"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\fancybox_overlay.png",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\fancybox_overlay.png"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\fancybox_sprite.png",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\fancybox_sprite.png"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\fancybox_sprite@2x.png",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\fancybox_sprite@2x.png"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\faviconbb90.ico",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\faviconbb90.ico"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\fontawesome-webfont93e3.eot",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\fontawesome-webfont93e3.eot"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\fontawesome-webfont93e3.svg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\fontawesome-webfont93e3.svg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\fontawesome-webfont93e3.ttf",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\fontawesome-webfont93e3.ttf"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\fontawesome-webfont93e3.woff",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\fontawesome-webfont93e3.woff"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\fontawesome-webfont93e3.woff2",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\fontawesome-webfont93e3.woff2"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\fonts\\Simple-Line-Iconsb26c-2.html",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\fonts\\Simple-Line-Iconsb26c-2.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\fonts\\Simple-Line-Iconsb26c-3.html",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\fonts\\Simple-Line-Iconsb26c-3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\fonts\\Simple-Line-Iconsb26c.html",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\fonts\\Simple-Line-Iconsb26c.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\fr1631.png",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\fr1631.png"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\header-type7ebf8.css",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\header-type7ebf8.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\history-thumb.png",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\history-thumb.png"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\homepagedaa5.css",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\homepagedaa5.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\indexfe2d.html",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\indexfe2d.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\jquery.elevatezoom.min0df0.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\jquery.elevatezoom.min0df0.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\jquery.fancybox.pack9eec.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\jquery.fancybox.pack9eec.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\jquery.fancyboxa47b.css",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\jquery.fancyboxa47b.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\jquery.history.minc064.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\jquery.history.minc064.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\logo_white_newb8ec.png",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\logo_white_newb8ec.png"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\option_selectiona156.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\option_selectiona156.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\page-carte933.css",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\page-carte933.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\pages2977.css",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\pages2977.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\pink6339.png",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\pink6339.png"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\pluginsc65e.css",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\pluginsc65e.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\porto35cb.eot",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\porto35cb.eot"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\porto35cb.svg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\porto35cb.svg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\porto35cb.ttf",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\porto35cb.ttf"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\porto35cb.woff",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\porto35cb.woff"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\porto35cb.woff2",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\porto35cb.woff2"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\product-list095e.css",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\product-list095e.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\product-quickviewfbbb.css",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\product-quickviewfbbb.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\productbb56.css",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\productbb56.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\rede965.png",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\rede965.png"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\responsive5ba2.css",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\responsive5ba2.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\select-bg16c5.svg",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\select-bg16c5.svg"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\shopify_commonc15a.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\shopify_commonc15a.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\sidebar9228.css",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\sidebar9228.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\stylesb421.css",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\stylesb421.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\theme-scriptsd5ff.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\theme-scriptsd5ff.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\theme3c6c.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\theme3c6c.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\ultramegamenu2040.css",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\ultramegamenu2040.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\assets\\vendor33cb.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\assets\\vendor33cb.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\compiled_assets\\scriptsfe2d.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\compiled_assets\\scriptsfe2d.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shop\\t\\36\\compiled_assets\\stylesfe2d.css",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shop\\t\\36\\compiled_assets\\stylesfe2d.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shopifycloud\\boomerang\\shopify-boomerang-1.0.0.min.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shopifycloud\\boomerang\\shopify-boomerang-1.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shopifycloud\\portable-wallets\\canary\\portable-wallets.de.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shopifycloud\\portable-wallets\\canary\\portable-wallets.de.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shopifycloud\\portable-wallets\\canary\\portable-wallets.en.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shopifycloud\\portable-wallets\\canary\\portable-wallets.en.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shopifycloud\\portable-wallets\\canary\\portable-wallets.fr.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shopifycloud\\portable-wallets\\canary\\portable-wallets.fr.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shopifycloud\\portable-wallets\\latest\\portable-wallets.de.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shopifycloud\\portable-wallets\\latest\\portable-wallets.de.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shopifycloud\\portable-wallets\\latest\\portable-wallets.en.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shopifycloud\\portable-wallets\\latest\\portable-wallets.en.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shopifycloud\\portable-wallets\\latest\\portable-wallets.fr.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shopifycloud\\portable-wallets\\latest\\portable-wallets.fr.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shopifycloud\\shopify\\assets\\no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c.gif",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shopifycloud\\shopify\\assets\\no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c.gif"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shopifycloud\\shopify\\assets\\shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shopifycloud\\shopify\\assets\\shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shopifycloud\\shopify\\assets\\storefront\\features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shopifycloud\\shopify\\assets\\storefront\\features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shopifycloud\\shopify\\assets\\storefront\\load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shopifycloud\\shopify\\assets\\storefront\\load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shopifycloud\\shopify\\assets\\themes_support\\api.jquery-b0af070cfe3f5cf7c92f9e2a5da2665ee07ed2aad63bb408f8d6672f894a5996.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shopifycloud\\shopify\\assets\\themes_support\\api.jquery-b0af070cfe3f5cf7c92f9e2a5da2665ee07ed2aad63bb408f8d6672f894a5996.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\cdn\\shopifycloud\\shopify\\assets\\themes_support\\shopify_common-33bb9d312118840468a53f36b59c62c1e8f2b7d1a0a77250db9e300441827470.js",
+      "PackagePath": "staticwebassets\\Layout\\cdn\\shopifycloud\\shopify\\assets\\themes_support\\shopify_common-33bb9d312118840468a53f36b59c62c1e8f2b7d1a0a77250db9e300441827470.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\checkout\\index.html",
+      "PackagePath": "staticwebassets\\Layout\\checkout\\index.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\checkouts\\internal\\preloadsc494.js",
+      "PackagePath": "staticwebassets\\Layout\\checkouts\\internal\\preloadsc494.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\checkouts\\internal\\preloadsde19.js",
+      "PackagePath": "staticwebassets\\Layout\\checkouts\\internal\\preloadsde19.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\checkouts\\internal\\preloadsf0c9.js",
+      "PackagePath": "staticwebassets\\Layout\\checkouts\\internal\\preloadsf0c9.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\accessories.atom",
+      "PackagePath": "staticwebassets\\Layout\\collections\\accessories.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\accessories.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\accessories.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\accessories.oembed",
+      "PackagePath": "staticwebassets\\Layout\\collections\\accessories.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\all.atom",
+      "PackagePath": "staticwebassets\\Layout\\collections\\all.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\all.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\all.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\all2679.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\all2679.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\all4658.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\all4658.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\clothing.atom",
+      "PackagePath": "staticwebassets\\Layout\\collections\\clothing.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\clothing.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\clothing.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\clothing.oembed",
+      "PackagePath": "staticwebassets\\Layout\\collections\\clothing.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\clothing\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\clothing\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\clothing\\products\\men-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\clothing\\products\\men-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\clothing\\products\\porto-sports-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\clothing\\products\\porto-sports-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\clothing\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\clothing\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\clothing\\products\\women-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\clothing\\products\\women-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\clothing\\products\\women-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\clothing\\products\\women-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\electronics.atom",
+      "PackagePath": "staticwebassets\\Layout\\collections\\electronics.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\electronics.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\electronics.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\electronics.oembed",
+      "PackagePath": "staticwebassets\\Layout\\collections\\electronics.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\fashion.atom",
+      "PackagePath": "staticwebassets\\Layout\\collections\\fashion.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\fashion.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\fashion.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\fashion.oembed",
+      "PackagePath": "staticwebassets\\Layout\\collections\\fashion.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\featured-products.atom",
+      "PackagePath": "staticwebassets\\Layout\\collections\\featured-products.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\featured-products.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\featured-products.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\featured-products.oembed",
+      "PackagePath": "staticwebassets\\Layout\\collections\\featured-products.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\featured-products\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\featured-products\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\featured-products\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\featured-products\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\featured-products\\products\\women-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\featured-products\\products\\women-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\featured-products\\products\\women-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\featured-products\\products\\women-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\featured-products\\products\\women-winter-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\featured-products\\products\\women-winter-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\frontpage.atom",
+      "PackagePath": "staticwebassets\\Layout\\collections\\frontpage.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\frontpage.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\frontpage.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\frontpage.oembed",
+      "PackagePath": "staticwebassets\\Layout\\collections\\frontpage.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\frontpage\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\frontpage\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\frontpage\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\frontpage\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\headphone.atom",
+      "PackagePath": "staticwebassets\\Layout\\collections\\headphone.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\headphone.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\headphone.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\headphone.oembed",
+      "PackagePath": "staticwebassets\\Layout\\collections\\headphone.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\headphone\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\headphone\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\headphone\\products\\porto-brown-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\headphone\\products\\porto-brown-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\headphone\\products\\porto-brown-necklet.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\headphone\\products\\porto-brown-necklet.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\headphone\\products\\women-bag-1.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\headphone\\products\\women-bag-1.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shoes.atom",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shoes.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shoes.oembed",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shoes.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shoes\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shoes\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shoes\\products\\porto-pink-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shoes\\products\\porto-pink-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shoes\\products\\porto-sports-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shoes\\products\\porto-sports-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shoes\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shoes\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shoes\\products\\women-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shoes\\products\\women-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shoes\\products\\women-winter-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shoes\\products\\women-winter-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shop.atom",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shop.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shop.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shop.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shop.oembed",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shop.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shop2679.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shop2679.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shop4658.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shop4658.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shop4658.oembed",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shop4658.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shop\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shop\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shop\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shop\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shop\\products\\men-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shop\\products\\men-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shop\\products\\porto-black-belt.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shop\\products\\porto-black-belt.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shop\\products\\porto-brown-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shop\\products\\porto-brown-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shop\\products\\porto-brown-necklet.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shop\\products\\porto-brown-necklet.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shop\\products\\porto-pink-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shop\\products\\porto-pink-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shop\\products\\porto-sports-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shop\\products\\porto-sports-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shop\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shop\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shop\\products\\product-pink-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shop\\products\\product-pink-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shop\\products\\women-bag-1.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shop\\products\\women-bag-1.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shop\\products\\women-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shop\\products\\women-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shop\\products\\women-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shop\\products\\women-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shop\\products\\women-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shop\\products\\women-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\shop\\products\\women-winter-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\shop\\products\\women-winter-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\t-shirts.atom",
+      "PackagePath": "staticwebassets\\Layout\\collections\\t-shirts.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\t-shirts.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\t-shirts.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\t-shirts.oembed",
+      "PackagePath": "staticwebassets\\Layout\\collections\\t-shirts.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\t-shirts\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\t-shirts\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\t-shirts\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\t-shirts\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\t-shirts\\products\\porto-brown-necklet.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\t-shirts\\products\\porto-brown-necklet.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\t-shirts\\products\\women-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\t-shirts\\products\\women-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\toys.atom",
+      "PackagePath": "staticwebassets\\Layout\\collections\\toys.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\toys.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\toys.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\toys.oembed",
+      "PackagePath": "staticwebassets\\Layout\\collections\\toys.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\toys\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\toys\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\toys\\products\\porto-pink-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\toys\\products\\porto-pink-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\toys\\products\\product-pink-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\toys\\products\\product-pink-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\toys\\products\\women-bag-1.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\toys\\products\\women-bag-1.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\toys\\products\\women-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\toys\\products\\women-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\toys\\products\\women-winter-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\toys\\products\\women-winter-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\trousers.atom",
+      "PackagePath": "staticwebassets\\Layout\\collections\\trousers.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\trousers.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\trousers.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\trousers.oembed",
+      "PackagePath": "staticwebassets\\Layout\\collections\\trousers.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\trousers\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\trousers\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\trousers\\products\\men-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\trousers\\products\\men-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\trousers\\products\\porto-black-belt.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\trousers\\products\\porto-black-belt.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\trousers\\products\\women-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\trousers\\products\\women-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\watches.atom",
+      "PackagePath": "staticwebassets\\Layout\\collections\\watches.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\watches.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\watches.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\watches.oembed",
+      "PackagePath": "staticwebassets\\Layout\\collections\\watches.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\watches\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\watches\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\watches\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\watches\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\watches\\products\\porto-black-belt.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\watches\\products\\porto-black-belt.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\watches\\products\\porto-brown-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\watches\\products\\porto-brown-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\collections\\watches\\products\\product-pink-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\collections\\watches\\products\\product-pink-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de.html",
+      "PackagePath": "staticwebassets\\Layout\\de.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\account\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\account\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\account\\login.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\account\\login.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\account\\loginb7cf.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\account\\loginb7cf.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\account\\register.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\account\\register.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\blogs\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\blogs\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\blogs\\news.atom",
+      "PackagePath": "staticwebassets\\Layout\\de\\blogs\\news.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\blogs\\news.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\blogs\\news.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\blogs\\news\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\blogs\\news\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\blogs\\news\\post-format-image-gallery.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\blogs\\news\\post-format-image-gallery.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\blogs\\news\\post-format-video.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\blogs\\news\\post-format-video.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\blogs\\news\\tagged\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\blogs\\news\\tagged\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\blogs\\news\\tagged\\blog-2.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\blogs\\news\\tagged\\blog-2.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\blogs\\news\\tagged\\blog.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\blogs\\news\\tagged\\blog.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\blogs\\news\\tagged\\clothing-2.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\blogs\\news\\tagged\\clothing-2.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\blogs\\news\\tagged\\clothing.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\blogs\\news\\tagged\\clothing.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\blogs\\news\\tagged\\dresses.atom",
+      "PackagePath": "staticwebassets\\Layout\\de\\blogs\\news\\tagged\\dresses.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\blogs\\news\\tagged\\dresses.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\blogs\\news\\tagged\\dresses.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\blogs\\news\\tagged\\fashion-2.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\blogs\\news\\tagged\\fashion-2.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\blogs\\news\\tagged\\fashion.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\blogs\\news\\tagged\\fashion.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\blogs\\news\\tagged\\photography-2.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\blogs\\news\\tagged\\photography-2.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\blogs\\news\\tagged\\photography.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\blogs\\news\\tagged\\photography.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\blogs\\news\\tagged\\shoes.atom",
+      "PackagePath": "staticwebassets\\Layout\\de\\blogs\\news\\tagged\\shoes.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\blogs\\news\\tagged\\shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\blogs\\news\\tagged\\shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\blogs\\news\\tagged\\women.atom",
+      "PackagePath": "staticwebassets\\Layout\\de\\blogs\\news\\tagged\\women.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\blogs\\news\\tagged\\women.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\blogs\\news\\tagged\\women.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\cart.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\cart.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\checkout.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\checkout.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\accessories.atom",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\accessories.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\accessories.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\accessories.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\accessories.oembed",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\accessories.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\all.atom",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\all.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\all.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\all.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\all2679.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\all2679.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\all4658.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\all4658.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\all\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\all\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\all\\products\\women-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\all\\products\\women-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\all\\products\\women-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\all\\products\\women-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\all\\products\\women-winter-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\all\\products\\women-winter-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\clothing.atom",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\clothing.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\clothing.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\clothing.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\clothing.oembed",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\clothing.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\clothing\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\clothing\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\clothing\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\clothing\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\clothing\\products\\men-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\clothing\\products\\men-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\clothing\\products\\porto-black-belt.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\clothing\\products\\porto-black-belt.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\clothing\\products\\porto-brown-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\clothing\\products\\porto-brown-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\clothing\\products\\porto-brown-necklet.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\clothing\\products\\porto-brown-necklet.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\clothing\\products\\porto-pink-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\clothing\\products\\porto-pink-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\clothing\\products\\porto-sports-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\clothing\\products\\porto-sports-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\clothing\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\clothing\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\clothing\\products\\product-pink-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\clothing\\products\\product-pink-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\clothing\\products\\women-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\clothing\\products\\women-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\clothing\\products\\women-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\clothing\\products\\women-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\electronics-2.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\electronics-2.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\electronics.atom",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\electronics.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\electronics.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\electronics.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\fashion-2.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\fashion-2.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\fashion-3.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\fashion-3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\fashion.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\fashion.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\featured-products.atom",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\featured-products.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\featured-products.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\featured-products.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\featured-products.oembed",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\featured-products.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\featured-products\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\featured-products\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\featured-products\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\featured-products\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\featured-products\\products\\women-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\featured-products\\products\\women-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\featured-products\\products\\women-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\featured-products\\products\\women-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\featured-products\\products\\women-winter-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\featured-products\\products\\women-winter-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\frontpage.atom",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\frontpage.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\frontpage.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\frontpage.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\frontpage.oembed",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\frontpage.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\frontpage\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\frontpage\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\frontpage\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\frontpage\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\frontpage\\products\\men-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\frontpage\\products\\men-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\frontpage\\products\\porto-black-belt.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\frontpage\\products\\porto-black-belt.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\frontpage\\products\\porto-brown-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\frontpage\\products\\porto-brown-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\frontpage\\products\\porto-brown-necklet.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\frontpage\\products\\porto-brown-necklet.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\frontpage\\products\\porto-pink-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\frontpage\\products\\porto-pink-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\frontpage\\products\\porto-sports-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\frontpage\\products\\porto-sports-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\frontpage\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\frontpage\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\frontpage\\products\\product-pink-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\frontpage\\products\\product-pink-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\headphone.atom",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\headphone.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\headphone.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\headphone.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\headphone.oembed",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\headphone.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\headphone\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\headphone\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\headphone\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\headphone\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\headphone\\products\\men-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\headphone\\products\\men-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\headphone\\products\\porto-black-belt.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\headphone\\products\\porto-black-belt.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\headphone\\products\\porto-brown-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\headphone\\products\\porto-brown-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\headphone\\products\\porto-brown-necklet.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\headphone\\products\\porto-brown-necklet.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\headphone\\products\\porto-pink-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\headphone\\products\\porto-pink-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\headphone\\products\\porto-sports-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\headphone\\products\\porto-sports-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\headphone\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\headphone\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\headphone\\products\\product-pink-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\headphone\\products\\product-pink-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\headphone\\products\\women-bag-1.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\headphone\\products\\women-bag-1.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shoes.atom",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shoes.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shoes.oembed",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shoes.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shoes\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shoes\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shoes\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shoes\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shoes\\products\\men-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shoes\\products\\men-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shoes\\products\\porto-black-belt.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shoes\\products\\porto-black-belt.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shoes\\products\\porto-brown-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shoes\\products\\porto-brown-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shoes\\products\\porto-brown-necklet.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shoes\\products\\porto-brown-necklet.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shoes\\products\\porto-pink-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shoes\\products\\porto-pink-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shoes\\products\\porto-sports-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shoes\\products\\porto-sports-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shoes\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shoes\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shoes\\products\\product-pink-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shoes\\products\\product-pink-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shoes\\products\\women-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shoes\\products\\women-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shoes\\products\\women-winter-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shoes\\products\\women-winter-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shop.atom",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shop.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shop.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shop.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shop.oembed",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shop.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shop2679.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shop2679.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shop4658-2.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shop4658-2.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shop4658.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shop4658.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shop\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shop\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shop\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shop\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shop\\products\\men-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shop\\products\\men-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shop\\products\\porto-black-belt.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shop\\products\\porto-black-belt.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shop\\products\\porto-brown-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shop\\products\\porto-brown-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shop\\products\\porto-brown-necklet.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shop\\products\\porto-brown-necklet.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shop\\products\\porto-pink-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shop\\products\\porto-pink-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shop\\products\\porto-sports-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shop\\products\\porto-sports-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shop\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shop\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shop\\products\\product-pink-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shop\\products\\product-pink-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shop\\products\\women-bag-1.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shop\\products\\women-bag-1.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shop\\products\\women-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shop\\products\\women-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shop\\products\\women-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shop\\products\\women-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shop\\products\\women-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shop\\products\\women-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\shop\\products\\women-winter-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\shop\\products\\women-winter-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\t-shirts.atom",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\t-shirts.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\t-shirts.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\t-shirts.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\t-shirts.oembed",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\t-shirts.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\t-shirts\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\t-shirts\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\t-shirts\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\t-shirts\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\t-shirts\\products\\men-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\t-shirts\\products\\men-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\t-shirts\\products\\porto-black-belt.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\t-shirts\\products\\porto-black-belt.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\t-shirts\\products\\porto-brown-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\t-shirts\\products\\porto-brown-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\t-shirts\\products\\porto-brown-necklet.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\t-shirts\\products\\porto-brown-necklet.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\t-shirts\\products\\porto-pink-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\t-shirts\\products\\porto-pink-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\t-shirts\\products\\porto-sports-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\t-shirts\\products\\porto-sports-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\t-shirts\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\t-shirts\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\t-shirts\\products\\product-pink-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\t-shirts\\products\\product-pink-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\t-shirts\\products\\women-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\t-shirts\\products\\women-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\toys.atom",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\toys.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\toys.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\toys.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\toys.oembed",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\toys.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\toys\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\toys\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\toys\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\toys\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\toys\\products\\men-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\toys\\products\\men-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\toys\\products\\porto-black-belt.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\toys\\products\\porto-black-belt.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\toys\\products\\porto-brown-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\toys\\products\\porto-brown-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\toys\\products\\porto-brown-necklet.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\toys\\products\\porto-brown-necklet.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\toys\\products\\porto-pink-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\toys\\products\\porto-pink-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\toys\\products\\porto-sports-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\toys\\products\\porto-sports-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\toys\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\toys\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\toys\\products\\product-pink-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\toys\\products\\product-pink-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\toys\\products\\women-bag-1.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\toys\\products\\women-bag-1.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\toys\\products\\women-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\toys\\products\\women-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\toys\\products\\women-winter-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\toys\\products\\women-winter-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\trousers.atom",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\trousers.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\trousers.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\trousers.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\trousers.oembed",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\trousers.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\trousers\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\trousers\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\trousers\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\trousers\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\trousers\\products\\men-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\trousers\\products\\men-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\trousers\\products\\porto-black-belt.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\trousers\\products\\porto-black-belt.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\trousers\\products\\porto-brown-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\trousers\\products\\porto-brown-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\trousers\\products\\porto-brown-necklet.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\trousers\\products\\porto-brown-necklet.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\trousers\\products\\porto-pink-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\trousers\\products\\porto-pink-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\trousers\\products\\porto-sports-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\trousers\\products\\porto-sports-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\trousers\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\trousers\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\trousers\\products\\product-pink-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\trousers\\products\\product-pink-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\trousers\\products\\women-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\trousers\\products\\women-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\watches.atom",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\watches.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\watches.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\watches.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\watches.oembed",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\watches.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\watches\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\watches\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\watches\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\watches\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\watches\\products\\men-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\watches\\products\\men-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\watches\\products\\porto-black-belt.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\watches\\products\\porto-black-belt.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\watches\\products\\porto-brown-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\watches\\products\\porto-brown-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\watches\\products\\porto-brown-necklet.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\watches\\products\\porto-brown-necklet.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\watches\\products\\porto-pink-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\watches\\products\\porto-pink-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\watches\\products\\porto-sports-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\watches\\products\\porto-sports-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\watches\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\watches\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\collections\\watches\\products\\product-pink-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\collections\\watches\\products\\product-pink-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\index.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\index.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\pages\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\pages\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\pages\\about-us.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\pages\\about-us.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\pages\\contact.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\pages\\contact.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\black-woman-underwear.oembed",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\black-woman-underwear.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\black-woman-underwear95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\black-woman-underwear95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\men-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\men-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\men-trouser.oembed",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\men-trouser.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\men-trouser95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\men-trouser95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\porto-black-belt.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\porto-black-belt.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\porto-black-belt.oembed",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\porto-black-belt.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\porto-black-belt95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\porto-black-belt95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\porto-brown-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\porto-brown-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\porto-brown-bag.oembed",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\porto-brown-bag.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\porto-brown-bag95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\porto-brown-bag95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\porto-brown-necklet.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\porto-brown-necklet.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\porto-brown-necklet.oembed",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\porto-brown-necklet.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\porto-brown-necklet95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\porto-brown-necklet95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\porto-pink-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\porto-pink-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\porto-pink-shoes.oembed",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\porto-pink-shoes.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\porto-pink-shoes95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\porto-pink-shoes95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\porto-sports-shoes-2.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\porto-sports-shoes-2.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\porto-sports-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\porto-sports-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\porto-sports-shoes95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\porto-sports-shoes95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\product-black-bag.oembed",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\product-black-bag.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\product-black-bag95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\product-black-bag95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\product-pink-bag-2.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\product-pink-bag-2.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\product-pink-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\product-pink-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\product-pink-bag95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\product-pink-bag95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\women-bag-1.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\women-bag-1.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\women-bag-195b3.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\women-bag-195b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\women-bag-2.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\women-bag-2.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\women-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\women-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\women-bag.oembed",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\women-bag.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\women-bag95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\women-bag95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\women-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\women-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\women-black-bag.oembed",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\women-black-bag.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\women-black-bag95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\women-black-bag95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\women-trouser-2.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\women-trouser-2.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\women-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\women-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\women-trouser95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\women-trouser95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\women-winter-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\women-winter-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\women-winter-shoes.oembed",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\women-winter-shoes.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\de\\products\\women-winter-shoes95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\de\\products\\women-winter-shoes95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr.html",
+      "PackagePath": "staticwebassets\\Layout\\fr.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\account\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\account\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\account\\login.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\account\\login.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\account\\logine4e5.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\account\\logine4e5.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\account\\register.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\account\\register.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\blogs\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\blogs\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\blogs\\news.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\blogs\\news.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\blogs\\news.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\blogs\\news.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\blogs\\news\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\blogs\\news\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\blogs\\news\\post-format-image-gallery.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\blogs\\news\\post-format-image-gallery.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\blogs\\news\\post-format-video.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\blogs\\news\\post-format-video.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\blogs\\news\\tagged\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\blogs\\news\\tagged\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\blogs\\news\\tagged\\blog.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\blogs\\news\\tagged\\blog.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\blogs\\news\\tagged\\blog.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\blogs\\news\\tagged\\blog.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\blogs\\news\\tagged\\clothing.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\blogs\\news\\tagged\\clothing.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\blogs\\news\\tagged\\clothing.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\blogs\\news\\tagged\\clothing.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\blogs\\news\\tagged\\dresses.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\blogs\\news\\tagged\\dresses.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\blogs\\news\\tagged\\dresses.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\blogs\\news\\tagged\\dresses.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\blogs\\news\\tagged\\fashion.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\blogs\\news\\tagged\\fashion.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\blogs\\news\\tagged\\fashion.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\blogs\\news\\tagged\\fashion.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\blogs\\news\\tagged\\photography.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\blogs\\news\\tagged\\photography.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\blogs\\news\\tagged\\photography.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\blogs\\news\\tagged\\photography.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\blogs\\news\\tagged\\shoes.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\blogs\\news\\tagged\\shoes.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\blogs\\news\\tagged\\shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\blogs\\news\\tagged\\shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\blogs\\news\\tagged\\women.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\blogs\\news\\tagged\\women.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\blogs\\news\\tagged\\women.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\blogs\\news\\tagged\\women.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\cart.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\cart.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\checkout.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\checkout.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\accessories.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\accessories.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\accessories.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\accessories.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\accessories.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\accessories.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\all.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\all.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\all.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\all.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\all2679.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\all2679.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\all4658.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\all4658.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\all\\products\\women-winter-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\all\\products\\women-winter-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\clothing.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\clothing.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\clothing.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\clothing.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\clothing.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\clothing.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\clothing\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\clothing\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\clothing\\products\\men-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\clothing\\products\\men-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\clothing\\products\\porto-sports-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\clothing\\products\\porto-sports-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\clothing\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\clothing\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\clothing\\products\\women-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\clothing\\products\\women-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\clothing\\products\\women-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\clothing\\products\\women-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\electronics.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\electronics.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\electronics.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\electronics.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\electronics.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\electronics.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\fashion.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\fashion.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\fashion.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\fashion.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\fashion.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\fashion.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\featured-products.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\featured-products.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\featured-products.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\featured-products.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\featured-products.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\featured-products.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\featured-products\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\featured-products\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\featured-products\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\featured-products\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\featured-products\\products\\women-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\featured-products\\products\\women-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\featured-products\\products\\women-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\featured-products\\products\\women-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\featured-products\\products\\women-winter-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\featured-products\\products\\women-winter-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\frontpage.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\frontpage.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\frontpage.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\frontpage.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\frontpage.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\frontpage.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\frontpage\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\frontpage\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\frontpage\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\frontpage\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\headphone.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\headphone.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\headphone.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\headphone.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\headphone.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\headphone.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\headphone\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\headphone\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\headphone\\products\\porto-brown-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\headphone\\products\\porto-brown-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\headphone\\products\\porto-brown-necklet.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\headphone\\products\\porto-brown-necklet.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\headphone\\products\\women-bag-1.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\headphone\\products\\women-bag-1.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shoes.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shoes.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shoes.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shoes.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shoes\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shoes\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shoes\\products\\porto-pink-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shoes\\products\\porto-pink-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shoes\\products\\porto-sports-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shoes\\products\\porto-sports-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shoes\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shoes\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shoes\\products\\women-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shoes\\products\\women-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shoes\\products\\women-winter-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shoes\\products\\women-winter-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shop.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shop.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shop.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shop.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shop.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shop.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shop2679.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shop2679.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shop4658.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shop4658.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shop4658.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shop4658.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shop\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shop\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shop\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shop\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shop\\products\\men-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shop\\products\\men-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shop\\products\\porto-black-belt.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shop\\products\\porto-black-belt.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shop\\products\\porto-brown-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shop\\products\\porto-brown-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shop\\products\\porto-brown-necklet.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shop\\products\\porto-brown-necklet.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shop\\products\\porto-pink-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shop\\products\\porto-pink-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shop\\products\\porto-sports-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shop\\products\\porto-sports-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shop\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shop\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shop\\products\\product-pink-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shop\\products\\product-pink-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shop\\products\\women-bag-1.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shop\\products\\women-bag-1.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shop\\products\\women-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shop\\products\\women-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shop\\products\\women-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shop\\products\\women-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shop\\products\\women-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shop\\products\\women-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\shop\\products\\women-winter-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\shop\\products\\women-winter-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\t-shirts.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\t-shirts.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\t-shirts.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\t-shirts.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\t-shirts.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\t-shirts.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\t-shirts\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\t-shirts\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\t-shirts\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\t-shirts\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\t-shirts\\products\\men-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\t-shirts\\products\\men-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\t-shirts\\products\\porto-black-belt.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\t-shirts\\products\\porto-black-belt.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\t-shirts\\products\\porto-brown-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\t-shirts\\products\\porto-brown-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\t-shirts\\products\\porto-brown-necklet.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\t-shirts\\products\\porto-brown-necklet.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\t-shirts\\products\\porto-pink-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\t-shirts\\products\\porto-pink-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\t-shirts\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\t-shirts\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\t-shirts\\products\\product-pink-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\t-shirts\\products\\product-pink-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\t-shirts\\products\\women-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\t-shirts\\products\\women-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\toys.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\toys.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\toys.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\toys.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\toys.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\toys.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\toys\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\toys\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\toys\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\toys\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\toys\\products\\men-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\toys\\products\\men-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\toys\\products\\porto-black-belt.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\toys\\products\\porto-black-belt.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\toys\\products\\porto-brown-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\toys\\products\\porto-brown-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\toys\\products\\porto-brown-necklet.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\toys\\products\\porto-brown-necklet.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\toys\\products\\porto-pink-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\toys\\products\\porto-pink-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\toys\\products\\porto-sports-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\toys\\products\\porto-sports-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\toys\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\toys\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\toys\\products\\product-pink-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\toys\\products\\product-pink-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\toys\\products\\women-bag-1.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\toys\\products\\women-bag-1.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\toys\\products\\women-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\toys\\products\\women-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\toys\\products\\women-winter-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\toys\\products\\women-winter-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\trousers.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\trousers.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\trousers.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\trousers.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\trousers.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\trousers.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\trousers\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\trousers\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\trousers\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\trousers\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\trousers\\products\\men-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\trousers\\products\\men-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\trousers\\products\\porto-black-belt.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\trousers\\products\\porto-black-belt.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\trousers\\products\\porto-brown-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\trousers\\products\\porto-brown-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\trousers\\products\\porto-brown-necklet.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\trousers\\products\\porto-brown-necklet.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\trousers\\products\\porto-pink-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\trousers\\products\\porto-pink-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\trousers\\products\\porto-sports-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\trousers\\products\\porto-sports-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\trousers\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\trousers\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\trousers\\products\\product-pink-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\trousers\\products\\product-pink-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\trousers\\products\\women-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\trousers\\products\\women-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\watches.atom",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\watches.atom"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\watches.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\watches.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\watches.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\watches.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\watches\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\watches\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\watches\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\watches\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\watches\\products\\men-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\watches\\products\\men-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\watches\\products\\porto-black-belt.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\watches\\products\\porto-black-belt.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\watches\\products\\porto-brown-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\watches\\products\\porto-brown-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\watches\\products\\porto-brown-necklet.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\watches\\products\\porto-brown-necklet.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\watches\\products\\porto-pink-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\watches\\products\\porto-pink-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\watches\\products\\porto-sports-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\watches\\products\\porto-sports-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\watches\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\watches\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\collections\\watches\\products\\product-pink-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\collections\\watches\\products\\product-pink-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\index.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\index.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\pages\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\pages\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\pages\\about-us.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\pages\\about-us.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\pages\\contact.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\pages\\contact.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\black-woman-underwear.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\black-woman-underwear.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\black-woman-underwear95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\black-woman-underwear95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\men-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\men-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\men-trouser.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\men-trouser.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\men-trouser95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\men-trouser95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\porto-black-belt.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\porto-black-belt.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\porto-black-belt.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\porto-black-belt.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\porto-black-belt95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\porto-black-belt95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\porto-brown-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\porto-brown-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\porto-brown-bag.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\porto-brown-bag.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\porto-brown-bag95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\porto-brown-bag95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\porto-brown-necklet.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\porto-brown-necklet.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\porto-brown-necklet.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\porto-brown-necklet.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\porto-brown-necklet95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\porto-brown-necklet95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\porto-pink-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\porto-pink-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\porto-pink-shoes.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\porto-pink-shoes.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\porto-pink-shoes95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\porto-pink-shoes95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\porto-sports-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\porto-sports-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\porto-sports-shoes.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\porto-sports-shoes.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\porto-sports-shoes95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\porto-sports-shoes95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\product-black-bag.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\product-black-bag.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\product-black-bag95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\product-black-bag95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\product-pink-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\product-pink-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\product-pink-bag.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\product-pink-bag.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\product-pink-bag95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\product-pink-bag95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\women-bag-1.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\women-bag-1.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\women-bag-1.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\women-bag-1.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\women-bag-195b3.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\women-bag-195b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\women-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\women-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\women-bag.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\women-bag.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\women-bag95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\women-bag95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\women-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\women-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\women-black-bag.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\women-black-bag.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\women-black-bag95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\women-black-bag95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\women-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\women-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\women-trouser.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\women-trouser.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\women-trouser95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\women-trouser95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\women-winter-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\women-winter-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\women-winter-shoes.oembed",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\women-winter-shoes.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\fr\\products\\women-winter-shoes95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\fr\\products\\women-winter-shoes95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\index.html",
+      "PackagePath": "staticwebassets\\Layout\\index.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\pages\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\pages\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\pages\\about-us.html",
+      "PackagePath": "staticwebassets\\Layout\\pages\\about-us.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\pages\\contact.html",
+      "PackagePath": "staticwebassets\\Layout\\pages\\contact.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\POST.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\POST.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\black-woman-underwear.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\black-woman-underwear.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\black-woman-underwear.oembed",
+      "PackagePath": "staticwebassets\\Layout\\products\\black-woman-underwear.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\black-woman-underwear95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\black-woman-underwear95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\men-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\men-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\men-trouser.oembed",
+      "PackagePath": "staticwebassets\\Layout\\products\\men-trouser.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\men-trouser95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\men-trouser95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\porto-black-belt.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\porto-black-belt.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\porto-black-belt.oembed",
+      "PackagePath": "staticwebassets\\Layout\\products\\porto-black-belt.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\porto-black-belt95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\porto-black-belt95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\porto-brown-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\porto-brown-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\porto-brown-bag.oembed",
+      "PackagePath": "staticwebassets\\Layout\\products\\porto-brown-bag.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\porto-brown-bag95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\porto-brown-bag95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\porto-brown-necklet.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\porto-brown-necklet.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\porto-brown-necklet.oembed",
+      "PackagePath": "staticwebassets\\Layout\\products\\porto-brown-necklet.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\porto-brown-necklet95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\porto-brown-necklet95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\porto-pink-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\porto-pink-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\porto-pink-shoes.oembed",
+      "PackagePath": "staticwebassets\\Layout\\products\\porto-pink-shoes.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\porto-pink-shoes95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\porto-pink-shoes95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\porto-sports-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\porto-sports-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\porto-sports-shoes.oembed",
+      "PackagePath": "staticwebassets\\Layout\\products\\porto-sports-shoes.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\porto-sports-shoes95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\porto-sports-shoes95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\product-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\product-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\product-black-bag.oembed",
+      "PackagePath": "staticwebassets\\Layout\\products\\product-black-bag.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\product-black-bag95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\product-black-bag95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\product-pink-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\product-pink-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\product-pink-bag.oembed",
+      "PackagePath": "staticwebassets\\Layout\\products\\product-pink-bag.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\product-pink-bag95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\product-pink-bag95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\women-bag-1.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\women-bag-1.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\women-bag-1.oembed",
+      "PackagePath": "staticwebassets\\Layout\\products\\women-bag-1.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\women-bag-195b3.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\women-bag-195b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\women-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\women-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\women-bag.oembed",
+      "PackagePath": "staticwebassets\\Layout\\products\\women-bag.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\women-bag95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\women-bag95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\women-black-bag.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\women-black-bag.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\women-black-bag.oembed",
+      "PackagePath": "staticwebassets\\Layout\\products\\women-black-bag.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\women-black-bag95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\women-black-bag95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\women-trouser.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\women-trouser.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\women-trouser.oembed",
+      "PackagePath": "staticwebassets\\Layout\\products\\women-trouser.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\women-trouser95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\women-trouser95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\women-winter-shoes.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\women-winter-shoes.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\women-winter-shoes.oembed",
+      "PackagePath": "staticwebassets\\Layout\\products\\women-winter-shoes.oembed"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\Layout\\products\\women-winter-shoes95b3.html",
+      "PackagePath": "staticwebassets\\Layout\\products\\women-winter-shoes95b3.html"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Workspace\\LTW_Nhom10\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LTW_Nhom10.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LTW_Nhom10.props",
+      "PackagePath": "build\\LTW_Nhom10.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LTW_Nhom10.props",
+      "PackagePath": "buildMultiTargeting\\LTW_Nhom10.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LTW_Nhom10.props",
+      "PackagePath": "buildTransitive\\LTW_Nhom10.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
